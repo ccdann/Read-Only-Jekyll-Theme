@@ -8,11 +8,11 @@ layout: post
 
 <img src="{{ site.baseurl }}/images/database_layers.png">
 
-Here is an inline ![smiley](/images/database_layers.png){:height="36px" width="36px"}.
+Here is an inline ![smiley](images/database_layers.png){:height="36px" width="36px"}.
 
 And here is a referenced ![smile]
 
-[smile]: /images/database_layers.png
+[smile]: images/database_layers.png
 {: height="36px" width="36px"}
 
 
