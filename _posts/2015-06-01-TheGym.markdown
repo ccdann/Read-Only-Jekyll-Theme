@@ -8,14 +8,8 @@ layout: post
 
 
 
-![test](./images/database_layers.png=24x48)
-
-![](./images/database_layers =250x)
 
 <img style="float: right;" src="/images/database_layers.png">
 
-
-
-Here is an inline !
-
-![test](https://github.com/favicon.ico =24x48)
+![A test image](/images/database_layers.png)
+![TEST](/images/database_layers.png | width=100)
