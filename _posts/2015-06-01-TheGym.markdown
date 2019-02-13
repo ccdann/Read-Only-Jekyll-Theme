@@ -8,7 +8,7 @@ layout: post
 
 <img src="{{ site.baseurl }}/images/database_layers.png">
 
-![alt text](/images/database_layers.png "Logo Title Text 1")
+![alt text](/images/database_layers.png =100x20 "Logo Title Text 1")
 
 
 
