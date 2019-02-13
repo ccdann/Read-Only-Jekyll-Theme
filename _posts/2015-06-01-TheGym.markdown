@@ -12,6 +12,9 @@ layout: post
 
 ![](./images/database_layers =250x)
 
+<img style="float: right;" src="/images/database_layers.png">
+
+
 
 Here is an inline !
 
