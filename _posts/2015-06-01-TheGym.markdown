@@ -11,9 +11,6 @@ layout: post
 
 <img style="float: right;" src="../images/thegym.jpg">
 
-![A test image](../images/thegym.jpg)
-![TEST](../images/thegym.jpg | width=100)
+![A test image](/images/thegym.jpg)
+![TEST](/images/the_____gym.jpg | width=100)
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![book](/images/thegym.jpg)
-</div>
