@@ -9,8 +9,6 @@ layout: post
 
 
 
-<img style="float: right;" src="../images/thegym.jpg">
+<img width="100px;" src="{{ site.baseurl }}/images/thegym.jpg">
 
-![A test image](/images/thegym.jpg)
-![TEST](/images/the_____gym.jpg | width=100)
 
