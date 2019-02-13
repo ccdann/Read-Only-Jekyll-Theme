@@ -33,7 +33,7 @@ layout: default
             <article>
                 <section class="excerpt">
                 <header>
-                    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} {{post.date|date_to_long_string}}</a></h3>
+                    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} {{post.date|date: %B %Y"}}}</a></h3>
                 </header>
                 
                     {{ post.content | truncatewords: 30 }}
