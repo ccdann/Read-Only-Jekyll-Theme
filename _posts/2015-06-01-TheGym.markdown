@@ -8,7 +8,10 @@ layout: post
 
 
 
-![test](/images/database_layers.png=24x48)
+![test](./images/database_layers.png=24x48)
+
+![](./images/database_layers =250x)
+
 
 Here is an inline !
 
