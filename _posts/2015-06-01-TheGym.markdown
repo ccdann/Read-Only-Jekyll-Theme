@@ -9,11 +9,11 @@ layout: post
 
 
 
-<img style="float: right;" src="../images/database_layers.png">
+<img style="float: right;" src="../images/thegym.jpg">
 
-![A test image](../images/database_layers.png)
-![TEST](../images/database_layers.png | width=100)
+![A test image](../images/thegym.jpg)
+![TEST](../images/thegym.jpg | width=100)
 
 <div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![book](/images/database_layers.png)
+    ![book](/images/thegym.jpg)
 </div>
