@@ -6,6 +6,8 @@ layout: post
 
 {**English**} - This project is about an "Management of Gym", there being 5 different users: Administrator, Personal Trainer(PT), Customer, Employee and Technician. Each user have a multiple options to appropriate your necessities trought its position or function in gym. Project has developed based on 3 layers: Data acess layer (DAL), Business Login Layer (BLL), and User Interface Layer (UIL). This layers are used to separate responsabilities and make the code more easier and reused. The layer UI is resposible for interaction and user data presentation, the BLL layer is responsible to treat the rules of business and finally the DAL is to access and persist data on application, comunicating with BLL and UI. The next figure explain how it works:
 
+<img src="{{ site.baseurl }}/images/database_layers.png">
+
 ![alt text](/images/database_layers.png "Logo Title Text 1")
 
 
