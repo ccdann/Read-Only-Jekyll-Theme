@@ -13,3 +13,7 @@ layout: post
 
 ![A test image](../images/database_layers.png)
 ![TEST](../images/database_layers.png | width=100)
+
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+    ![book](/images/database_layers.png)
+</div>
