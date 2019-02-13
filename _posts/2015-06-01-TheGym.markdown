@@ -9,3 +9,6 @@ layout: post
 
 
 <img src="{{ site.baseurl }}/images/thegym.jpg" alt="Gym" class="center">
+
+
+
