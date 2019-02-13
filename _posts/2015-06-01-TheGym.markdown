@@ -8,16 +8,8 @@ layout: post
 
 
 
-![test](/images/database_layers.png =24x48)
+![test](/images/database_layers.png=24x48)
 
 Here is an inline !
 
-And here is a referenced ![smile]
-
-
-[smile]: /images/database_layers.png
-{: height="36px" width="36px"}
-
-
-
-
+![test](https://github.com/favicon.ico =24x48)
