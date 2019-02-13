@@ -8,4 +8,4 @@ layout: post
 
 
 
-<img src="{{ site.baseurl }}/images/thegym.jpg" alt="Gym" height="10" width="10">
+<img src="{{ site.baseurl }}/images/thegym.jpg" alt="Gym" class="center"">
