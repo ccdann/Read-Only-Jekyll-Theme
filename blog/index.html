@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-
+<!--This is a comment. Comments are not displayed in the browser
 <section id="one" >
     <div class="container">
         {% for post in site.posts limit:1 %}
             <article>
-                <!--This is a comment. Comments are not displayed in the browser
                 <header>
                     <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 </header>
@@ -18,12 +17,13 @@ layout: default
                     <ul class="actions">
                         <li><a href="{{ site.baseurl }}{{ post.url }}" class="button special">Read More</a></li>
                     </ul>
-                -->
+              
                 </section>
             </article>
         {% endfor %}
     </div>
 </section>
+  -->
 
 
 <section>
