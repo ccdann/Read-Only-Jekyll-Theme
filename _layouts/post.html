@@ -11,15 +11,6 @@ layout: default
         <section class="post-content">
             {{ content }}   
         </section>
-        
-           <div>
-               <table width="50%" height="50%" align="center" valign="center">
-               <tr><td>
-                  <img src="{{ site.baseurl }}/images/database_layers.png" alt="Gym"  />
-               </td></tr>
-               </table>
-            </div>
-        
         <footer>
             {% if page.previous %}
             <a href="{{page.previous.url | prepend: site.baseurl }}" class="float-left">&larr; Previous post</a> {% endif %}
