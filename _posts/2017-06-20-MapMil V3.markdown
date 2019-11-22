@@ -1,6 +1,5 @@
 ---
 layout: post
-https://www.igeoe.pt/index.php?id=107&cat=4&prod=51
 ---
 <img src="{{ site.baseurl }}/images/logo_cigoe.jpg">
 
