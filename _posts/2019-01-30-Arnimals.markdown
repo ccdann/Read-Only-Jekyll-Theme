@@ -10,10 +10,12 @@ A objetivo inicial é pedir ao utilizador os seguintes nomes: Terra, Fogo, Água
 Esse animal necessita de ser personalizado pelo utilizador, com os diferentes estilos seja roupa, entre outros acessórios.
 Um utilizador necessita de fazer um registo para conseguir associar o animal à sua conta. Este registo é feito num servidor à nossa escolha.
 
-
+ 
+ <br>
  <h2> Poster <h2/>
   <img src="{{ site.baseurl }}/images/arnimals_poster.png" /> 
- <br>
- <br>
-  Youtube
+
+ 
+Youtube
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/OQ9KEp8GwZk/0.jpg)](https://www.youtube.com/watch?v=OQ9KEp8GwZk)
+
