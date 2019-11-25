@@ -1,11 +1,9 @@
 ---
 layout: post
 ---
-<img src="{{ site.baseurl }}/images/camdemn_logo.png">
+<img src="{{ site.baseurl }}/images/camdemn_logo.jpg">
 
-Security messages based on CAM/DEMN using ( Java, Sumo Simulator, Android, Protobuffer
-Google)
-
+Security messages based on CAM/DEMN using(Java, Sumo Simulator, Android, ProtobufferGoogle)
 
  <h2> System Architeture <h2/>
  <img src="{{ site.baseurl }}/images/camdemn_poster.png" />
