@@ -1,0 +1,19 @@
+---
+layout: post
+---
+<img src="{{ site.baseurl }}/images/arnimals_logo.png">
+
+
+O Projeto em Engenharia Informática escolhido visa em criar um jogo baseado em realidade aumentada, em que o utilizador consiga interagir com o animal em diferentes aspetos.
+O utilizador é obrigado a criar um animal automaticamente e pode criar 5 diferentes tipos de animais.
+A objetivo inicial é pedir ao utilizador os seguintes nomes: Terra, Fogo, Água, entre outros, e de seguida aparecer uma sugestão do animal.
+Esse animal necessita de ser personalizado pelo utilizador, com os diferentes estilos seja roupa, entre outros acessórios.
+Um utilizador necessita de fazer um registo para conseguir associar o animal à sua conta. Este registo é feito num servidor à nossa escolha.
+
+
+ <h2> Poster <h2/>
+  <img src="{{ site.baseurl }}/images/arnimals_poster.png" /> 
+ <br>
+ <br>
+  Youtube
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/OQ9KEp8GwZk/0.jpg)](https://www.youtube.com/watch?v=OQ9KEp8GwZk)
