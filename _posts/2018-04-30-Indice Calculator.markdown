@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<img src="{{ site.baseurl }}/images/indicecalculator_logo.png">
+<img src="{{ site.baseurl }}/images/indicecalculator_logo.png"/>
 
 Calculo de um índice através da plataforma Twitter, consistindo  no calculo específico com base na diversidade de utilizadores que frequentam a cidade de Braga.
 

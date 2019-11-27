@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<img src="{{ site.baseurl }}/images/arnimals_logo.png">
+<img src="{{ site.baseurl }}/images/arnimals_logo.png"/>
 
 
 O Projeto em Engenharia Informática escolhido visa em criar um jogo baseado em realidade aumentada, em que o utilizador consiga interagir com o animal em diferentes aspetos.

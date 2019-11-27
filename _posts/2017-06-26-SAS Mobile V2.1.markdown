@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<img src="{{ site.baseurl }}/images/imagem_welcome.png">
+<img src="{{ site.baseurl }}/images/imagem_welcome.png"/>
 
 
 The SAS Mobile application was developed for all IPVC students.
